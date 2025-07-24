@@ -1,2 +1,2 @@
-# Nivx_python
-Padida punda
+# Nivx_python 
+
